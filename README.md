@@ -7,6 +7,7 @@
 ## Modifications
 ### Turtlebot3
 I choose waffle_pi so put ```export TURTLEBOT3_MODEL=waffle_pi``` in ```.bashrc```
+change sdf also change urdf for tf
 #### Velodyne
 - Inside ```~/turtlebot3_simulations/turtlebot3_gazebo/models/turtlebot3_waffle_pi/model.sdf``` add in
 
